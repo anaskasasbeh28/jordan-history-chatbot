@@ -97,6 +97,4 @@ Made with ❤️ by Anas and ChatGPT 🙌
 
 This project is for educational purposes only.
 
-```
-
 ---
